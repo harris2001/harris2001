@@ -4,12 +4,13 @@
 
 
 ## Welcome to my profile!
-* 💻 I'm a Computer Science MSc student at the [University of Edinburgh](https://www.ed.ac.uk/).
+* 💻 I'm a Junior Embedded Systems Software Engineer at [Siemens](https://www.siemens.com).
+* 🎓 Graduated with an MSc from the University of Edinburgh [University of Edinburgh](https://www.ed.ac.uk/).
 * 📝 You can read some of my articles on [https://medium.com/@harrishadjiantonis](https://medium.com/@harrishadjiantonis)
-* ⌨️ Favourite programming language: C++ | Python
-* ⚡ Favourite Framework: [Pytorch](https://pytorch.org/)
-* 📚 Most Recent Book: Human Compatible (Artificial Intelligence and the Problem of Control)
----
+* ⌨️ Favourite programming languages: C++ | Python
+* ⚡ Favourite ML Framework: [Pytorch](https://pytorch.org/)
+<!-- * 🔭 I’m currently working on -->
+----
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
