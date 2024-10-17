@@ -5,7 +5,7 @@
 
 ## Welcome to my profile!
 * 💻 I'm a Junior Embedded Systems Software Engineer at [Siemens](https://www.siemens.com).
-* 🎓 Graduated with an MSc from the University of Edinburgh [University of Edinburgh](https://www.ed.ac.uk/).
+* 🎓 Graduated with an MSc in Computer Science from the University of Edinburgh [University of Edinburgh](https://www.ed.ac.uk/).
 * 📝 You can read some of my articles on [https://medium.com/@harrishadjiantonis](https://medium.com/@harrishadjiantonis)
 * ⌨️ Favourite programming languages: C++ | Python
 * ⚡ Favourite ML Framework: [Pytorch](https://pytorch.org/)
