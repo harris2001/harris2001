@@ -4,7 +4,7 @@
 
 
 ## Welcome to my profile!
-* 💻 I'm a Junior Embedded Systems Software Engineer at [Siemens](https://www.siemens.com).
+* 💻 I'm an Embedded Systems Software Engineer Associate at [Siemens](https://www.siemens.com).
 * 🎓 Graduated with an MSc in Computer Science from the [University of Edinburgh](https://www.ed.ac.uk/).
 * 📝 You can read some of my articles on [https://medium.com/@harrishadjiantonis](https://medium.com/@harrishadjiantonis)
 * ⌨️ Favourite programming languages: C++ | Python
