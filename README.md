@@ -1,4 +1,4 @@
-> "Tandem Inter Pares"
+> "All models are wrong, but some are useful" [George Box]
 
 ---
 
