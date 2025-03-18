@@ -7,8 +7,7 @@
 * 💻 Embedded Systems Software Engineer Associate at [Siemens](https://www.siemens.com).
 * 🎓 Graduated with an MSc in Computer Science from the [University of Edinburgh](https://www.ed.ac.uk/).
 * 📝 You can read some of my articles on [https://medium.com/@harrishadjiantonis](https://medium.com/@harrishadjiantonis)
-* ⌨️ Favourite programming languages: C++ | Python
-* ⚡ Favourite ML Framework: [Pytorch](https://pytorch.org/)
+* ⌨️ Primary programming languages: C++ | Python
 <!-- * 🔭 I’m currently working on -->
 ----
 <h3 align="left">Languages and Tools:</h3>
