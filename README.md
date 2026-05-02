@@ -8,7 +8,6 @@
 * 🎓 Graduated with an MSc in Computer Science from the [University of Edinburgh](https://www.ed.ac.uk/).
 * 📝 You can read some of my articles on [https://medium.com/@harrishadjiantonis](https://medium.com/@harrishadjiantonis)
 * ⌨️ Primary programming languages: C++ | Python
-<!-- * 🔭 I’m currently working on -->
 ----
 
 # 💻 Tech Stack:
@@ -18,29 +17,6 @@
 ![](https://streak-stats.demolab.com/?user=harris2001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=harris2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harris2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harris2001&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 ### Lets connect!
 [LinkedIn](https://www.linkedin.com/in/harris-hadjiantonis/)
-<!--
-**harris2001/harris2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
