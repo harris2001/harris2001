@@ -4,11 +4,10 @@
 
 
 ## Welcome to my profile!
-* 💻 Embedded Systems Software Engineer Associate at [Siemens](https://www.siemens.com).
+* 💻 Embedded Systems Software Engineer at [Siemens](https://www.siemens.com).
 * 🎓 Graduated with an MSc in Computer Science from the [University of Edinburgh](https://www.ed.ac.uk/).
 * ⚡ Interested in C++, low-latency systems, performance optimisation, and systems programming.
 * 📝 You can read some of my articles on [https://medium.com/@harrishadjiantonis](https://medium.com/@harrishadjiantonis)
-* ⌨️ Primary focus: C++ | Low-Latency Systems | Embedded Software
 ----
 
 # 💻 Tech Stack:
